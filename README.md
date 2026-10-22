@@ -163,6 +163,15 @@ npm run dev
 ---
 <img width="1918" height="918" alt="image" src="https://github.com/user-attachments/assets/66b7a582-2059-4c21-abfc-b27f34bac9f8" />
 
+<img width="1900" height="828" alt="JobHub Dashboard and Latest Jobs" src="https://github.com/user-attachments/assets/b338f49a-4a09-4caa-bd7f-458ca804cdb9" />
+
+<img width="1768" height="890" alt="Job Hub Popular Categories Dashboard (1)" src="https://github.com/user-attachments/assets/c5cffd49-e0f3-4a1c-a838-73a22e331527" />
+
+<img width="1919" height="905" alt="image" src="https://github.com/user-attachments/assets/aadc763a-3bd3-4958-96c4-fc0ce6a81236" />
+
+<img width="1761" height="893" alt="Job Hub Listings Dashboard" src="https://github.com/user-attachments/assets/0be28fee-a546-4e5f-8dda-b88f5889f3d2" />
+
+
 
 
 
