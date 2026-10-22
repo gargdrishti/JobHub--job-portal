@@ -163,5 +163,5 @@ npm run dev
 
 ## 🚀 Live Deployment
 - **Frontend App:** [https://jobhub-livid.vercel.app](https://jobhub-livid.vercel.app)
-- **Backend API:** [https://jobhub-production-fda3.up.railway.app](https://jobhub-production-fda3.up.railway.app)
+- **Backend API:** [https://jobhub-backend-8mc8.onrender.com/]
 - **Database:** Railway MySQL
