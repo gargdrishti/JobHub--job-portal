@@ -159,9 +159,12 @@ npm run dev
 ```
 *(Frontend runs at `http://localhost:5173` or `http://localhost:5174`)*
 
+##Project Snippets
 ---
 
+
+
 ## 🚀 Live Deployment
-- **Frontend App:** [https://jobhub-livid.vercel.app](https://jobhub-livid.vercel.app)
-- **Backend API:** [https://jobhub-backend-8mc8.onrender.com/]
-- **Database:** Railway MySQL
+- **Frontend App:** [https://job-hub-job-portal.vercel.app/]
+- **Backend API:** [https://jobhub-backend-8mc8.onrender.com/api/jobs]
+- **Database:** MySQL (Aiven Cloud)
