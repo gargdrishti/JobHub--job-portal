@@ -161,6 +161,8 @@ npm run dev
 
 ##Project Snippets
 ---
+<img width="1918" height="918" alt="image" src="https://github.com/user-attachments/assets/66b7a582-2059-4c21-abfc-b27f34bac9f8" />
+
 
 
 
